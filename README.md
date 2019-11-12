@@ -13,7 +13,9 @@ Our goal is to aggregate community best practices, *not* what GitHub (or any oth
 
 This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
-## Licenses
+
+
+## التراخيص
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
@@ -24,4 +26,5 @@ The initial release of these guides were authored by **@nayafia, @bkeepers, @ste
 Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
 
 ## Disclaimer
-While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+بينما لدينا نصيحة حول إدارة مشروع مفتوح المصدر ، نحن لسنا محامين. تأكد من قراءة [إخلاء المسؤولية] (notices.md # legal-إخلاء المسؤولية) قبل الغوص فيها.
+
