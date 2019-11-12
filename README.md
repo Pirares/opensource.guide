@@ -23,8 +23,8 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
-
-## Disclaimer
-بينما لدينا نصيحة حول إدارة مشروع مفتوح المصدر ، نحن لسنا محامين. تأكد من قراءة [إخلاء المسؤولية] (notices.md # legal-إخلاء المسؤولية) قبل الغوص فيها.
+بفضل ** @ aitchabee ،benbalter ،brettannon ،caabernathy ،coralineada ،mleong ،ericholscher ، @ gr2m ،janl ، @ jessfraz ، @ joshsimmons ، @ kfogel ،kytrinyx ، @ lee-dohm ، وmikemcquaid و @ Nathansobo و @ nruff و @ nnsq و orta وparkr و @ shazow و @ steveklabnik و ** و ** @ wooorm ** لإقراض مدخلاتهم القيمة وخبراتهم المؤدية إلى الإصدار الأولي ، و ** @ sophshep ** و ** @ jeejkang ** لتصميم الأدلة وتوضيحها.
+k
+## تنصلj
+ولدينا نصيحة حول إدارة مشروع مفتوح المصدر ، نحن لسنا محامين. تأكد من قراءة [إخلاء المسؤولية] (notices.md # legal- hgggghhhhggbgfffffإخلاء المسؤولية) قبل الغوص فيها.
 
